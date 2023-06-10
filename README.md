@@ -4,7 +4,7 @@
 
 ### please contact e-mail: programista55@wp.pl
 
-### [Demo](https://programista55.github.io/form/)
+### [Demo](https://programista55.github.io/currencyCalculator/)
 
 **description**
 
